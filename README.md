@@ -12,4 +12,6 @@ using the following system parameters:
 
 
 tree.cpp contains the main code.
-script.py contains an automated script to test above.
+
+script.py
+Automated the above cases to generate throughput for each run.
