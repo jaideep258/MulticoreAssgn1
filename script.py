@@ -11,10 +11,8 @@ while (i<=100):
             call(["./trc",str(j),"1000",str(i)])
 	    data=open("results").readline().rstrip()
             results[k]=data
-	print results
 	total=sum(int(temp) for temp in results)
 	avg=total/10
-	print avg
 	throughput=(j*1000)/(avg*1.0)
 	f.write('For'+str(j)+'threads,with mean: '+str(i)+'average time is'+ str(avg)+'\n')
 	f.write('Throughput is'+str(throughput)+'\n\n')
