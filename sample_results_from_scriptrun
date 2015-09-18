@@ -1,0 +1,78 @@
+For2threads,with mean: 1average time is213
+Throughput is9.3896713615
+
+For4threads,with mean: 1average time is403
+Throughput is9.92555831266
+
+For8threads,with mean: 1average time is1014
+Throughput is7.889554635108
+
+For16threads,with mean: 1average time is162437
+Throughput is0.0984997260476
+
+For2threads,with mean: 10average time is383
+Throughput is5.22193211488
+
+For4threads,with mean: 10average time is714
+Throughput is5.60224089636
+
+For8threads,with mean: 10average time is1537
+Throughput is5.20449448476
+
+For16threads,with mean: 10average time is171658
+Throughput is0.0932085891715
+
+For2threads,with mean: 20average time is606
+Throughput is3.300330033
+
+For4threads,with mean: 20average time is2332
+Throughput is3.4305173478
+
+For8threads,with mean: 20average time is1147
+Throughput is3.48735832607
+
+For16threads,with mean: 20average time is172767
+Throughput is0.0926102785833
+
+For2threads,with mean: 30average time is815
+Throughput is2.45398773006
+
+For4threads,with mean: 30average time is1567
+Throughput is2.55264837269
+
+For8threads,with mean: 30average time is3164
+Throughput is2.58756421259
+
+For16threads,with mean: 30average time is172042
+Throughput is0.0930005463782
+
+For2threads,with mean: 40average time is1006
+Throughput is1.98807157058
+
+For4threads,with mean: 40average time is1980
+Throughput is2.0202020202
+
+For8threads,with mean: 40average time is3008
+Throughput is2.6598568212
+
+For16threads,with mean: 40average time is170107
+Throughput is0.0940584455666
+
+For2threads,with mean: 50average time is1238
+Throughput is1.6155088853
+
+For4threads,with mean: 50average time is2398
+Throughput is1.66805671393
+
+For8threads,with mean: 50average time is4810
+Throughput is1.66321025313
+
+For16threads,with mean: 50average time is174819
+Throughput is0.0915232326006
+
+For2threads,with mean: 60average time is1429
+Throughput is1.39958012596
+
+For4threads,with mean: 60average time is2778
+Throughput is1.43988480922
+
